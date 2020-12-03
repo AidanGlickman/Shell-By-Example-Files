@@ -1,0 +1,1 @@
+sudo echo only sudoers can run me
