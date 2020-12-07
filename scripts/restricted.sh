@@ -1,1 +1,1 @@
-sudo echo only sudoers can run me
+echo you need permission to run me!
